@@ -1,7 +1,7 @@
 # Pseudolang Software Foundation
 
 <p align="center">
-    <img src="Pseudolang-Logo.png" alt="Pseudolang Logo" height="200px" width="auto">
+    <img src="https://github.com/PseudoLang-Software-Foundation/Pseudolang/raw/main/Pseudolang-Logo.png" alt="Pseudolang Logo" height="200px" width="auto">
 </p>
 
 <p align="center">
