@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    Welcome to the <strong>Pseudolang Software Foundation</strong>!
+    Welcome to the <strong><a href="https://pseudo-lang.org">Pseudolang Software Foundation</a></strong>!
 </p>
 
 ## Getting Started
