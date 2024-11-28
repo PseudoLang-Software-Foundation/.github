@@ -20,7 +20,7 @@ We welcome contributions from the community! To contribute, please follow our [c
 
 Check out our key projects:
 
-- [Pseudolang Compiler](https://github.com/PseudoLang-Software-Foundation/Pseudolang)
+- [Pseudolang Interpreter](https://github.com/PseudoLang-Software-Foundation/Pseudolang)
 - [Pseudolang VSCode Extension](https://github.com/PseudoLang-Software-Foundation/Pseudolang-VSCode)
 - [Pseudolang Web Editor](https://github.com/PseudoLang-Software-Foundation/Pseudolang-Web)
 
